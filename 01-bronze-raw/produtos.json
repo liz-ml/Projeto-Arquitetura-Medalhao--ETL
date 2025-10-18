@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "nome_produto": "Smartphone Galaxy S21",
+    "categoria": "Eletrônicos",
+    "preco": 3499.99,
+    "marca": "Samsung",
+    "descricao": "Smartphone com tela AMOLED de 6.2 polegadas, 128GB.",
+    "estoque": 15,
+    "avaliacao": 4.7,
+    "tags": ["celular", "android", "samsung"]
+  },
+  {
+    "id": 2,
+    "nome_produto": "Notebook Dell Inspiron",
+    "categoria": "Informática",
+    "preco": 4999.90,
+    "marca": "Dell",
+    "descricao": "Notebook com Intel i7, 16GB RAM, SSD 512GB.",
+    "estoque": 8,
+    "avaliacao": 4.5,
+    "tags": ["notebook", "dell", "windows"]
+  },
+  {
+    "id": 3,
+    "nome_produto": "Fone de Ouvido Bluetooth",
+    "categoria": "Acessórios",
+    "preco": 299.99,
+    "marca": "JBL",
+    "descricao": "Fone de ouvido sem fio com cancelamento de ruído.",
+    "estoque": 30,
+    "avaliacao": 4.3,
+    "tags": ["fone", "bluetooth", "jbl"]
+  },
+  {
+    "id": 4,
+    "nome_produto": "Cafeteira Elétrica",
+    "categoria": "Eletrodomésticos",
+    "preco": 199.90,
+    "marca": "Philco",
+    "descricao": "Cafeteira elétrica para até 30 xícaras.",
+    "estoque": 20,
+    "avaliacao": 4.2,
+    "tags": ["cafeteira", "philco", "cozinha"]
+  },
+  {
+    "id": 5,
+    "nome_produto": "Tênis Esportivo",
+    "categoria": "Moda",
+    "preco": 249.90,
+    "marca": "Nike",
+    "descricao": "Tênis leve e confortável para corrida.",
+    "estoque": 25,
+    "avaliacao": 4.6,
+    "tags": ["tênis", "nike", "esporte"]
+  },
+  {
+    "id": 6,
+    "nome_produto": "Livro Python para Iniciantes",
+    "categoria": "Livros",
+    "preco": 89.90,
+    "marca": "Alta Books",
+    "descricao": "Guia completo para aprender Python do zero.",
+    "estoque": 50,
+    "avaliacao": 4.8,
+    "tags": ["livro", "python", "programação"]
+  },
+  {
+    "id": 7,
+    "nome_produto": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 2399.00,
+    "marca": "Brastemp",
+    "descricao": "Geladeira duplex com tecnologia frost free.",
+    "estoque": 5,
+    "avaliacao": 4.4,
+    "tags": ["geladeira", "brastemp", "cozinha"]
+  },
+  {
+    "id": 8,
+    "nome_produto": "Smart TV 50\" 4K",
+    "categoria": "Eletrônicos",
+    "preco": 2799.99,
+    "marca": "LG",
+    "descricao": "Smart TV 4K com acesso a aplicativos.",
+    "estoque": 12,
+    "avaliacao": 4.7,
+    "tags": ["tv", "smart", "lg"]
+  },
+  {
+    "id": 9,
+    "nome_produto": "Mochila Executiva",
+    "categoria": "Acessórios",
+    "preco": 159.90,
+    "marca": "Samsonite",
+    "descricao": "Mochila resistente para notebook até 15 polegadas.",
+    "estoque": 18,
+    "avaliacao": 4.5,
+    "tags": ["mochila", "executiva", "samsonite"]
+  },
+  {
+    "id": 10,
+    "nome_produto": "Perfume Eau de Parfum",
+    "categoria": "Beleza",
+    "preco": 349.00,
+    "marca": "O Boticário",
+    "descricao": "Perfume feminino com fragrância floral.",
+    "estoque": 22,
+    "avaliacao": 4.6,
+    "tags": ["perfume", "boticario", "beleza"]
+  }
+]

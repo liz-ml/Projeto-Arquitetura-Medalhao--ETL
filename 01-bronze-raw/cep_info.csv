@@ -1,0 +1,32 @@
+cep,logradouro,complemento,unidade,bairro,localidade,uf,estado,regiao,ibge,gia,ddd,siafi
+01001-000,Praça da Sé,lado ímpar,,Sé,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+01310-000,Avenida Paulista,até 610 - lado par,,Bela Vista,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+04094-050,Avenida Pedro Álvares Cabral,,,Parque Ibirapuera,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+05001-100,Avenida Francisco Matarazzo,de 1073/1074 a 1699/1700,,Água Branca,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+02011-000,Rua Voluntários da Pátria,até 891 - lado ímpar,,Santana,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+03047-000,Rua 21 de Abril,,,Brás,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+04567-001,Rua Arizona,de 321/322 a 529/530,,Cidade Monções,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+06018-010,Rua Paulo Lício Rizzo,,,Centro,Osasco,SP,São Paulo,Sudeste,3534401,4923,11,6789
+07094-020,Rua Darcy Vargas,,,Jardim Zaira,Guarulhos,SP,São Paulo,Sudeste,3518800,3360,11,6477
+08030-000,Avenida Coca,,,Vila Curuçá,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+09060-650,Avenida Príncipe de Gales,,,Vila Príncipe de Gales,Santo André,SP,São Paulo,Sudeste,3547809,6269,11,7057
+11013-040,Rua Tiro Onze,,,Centro,Santos,SP,São Paulo,Sudeste,3548500,6336,13,7071
+12020-030,Rua Doutor Souza Alves,,,Centro,Taubaté,SP,São Paulo,Sudeste,3554102,6889,12,7183
+13040-070,Rua Nicola Pacelli,,,Jardim Nova Europa,Campinas,SP,São Paulo,Sudeste,3509502,2446,19,6291
+14085-000,Avenida da Saudade,lado par,,Campos Elíseos,Ribeirão Preto,SP,São Paulo,Sudeste,3543402,5824,16,6969
+15015-200,Rua Voluntários de São Paulo,,,Centro,São José do Rio Preto,SP,São Paulo,Sudeste,3549805,6476,17,7097
+17012-340,Rua Sebastião Lins,,,Vila Guedes de Azevedo,Bauru,SP,São Paulo,Sudeste,3506003,2094,14,6219
+18025-000,Rua Doutor Campos Salles,,,Vila Assis,Sorocaba,SP,São Paulo,Sudeste,3552205,6695,15,7145
+19013-000,Avenida Brasil,de 1289/1290 a 2019/2020,,Vila São Jorge,Presidente Prudente,SP,São Paulo,Sudeste,3541406,5629,18,6929
+20031-170,Avenida República do Chile,,,Centro,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+21010-080,Rua Aguapé,,,Parada de Lucas,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+22041-001,Avenida Atlântica,de 2174 a 2634 - lado par,,Copacabana,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+23010-070,Rua Parnaiba,,,Santíssimo,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+24020-000,Avenida Visconde do Rio Branco,até 145 - lado ímpar,,Centro,Niterói,RJ,Rio de Janeiro,Sudeste,3303302,,21,5865
+26050-000,Estrada Adrianópolis,de 1822/1823 a 4281/4282,,Adrianópolis,Nova Iguaçu,RJ,Rio de Janeiro,Sudeste,3303500,,21,5869
+31010-080,Rua Almandina,,,Santa Tereza,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+33010-070,Rua Álvaro Teixeira,,,Centro,Santa Luzia,MG,Minas Gerais,Sudeste,3157807,,31,5155
+36050-000,Rua Américo Lobo,,,Bairu,Juiz de Fora,MG,Minas Gerais,Sudeste,3136702,,32,4733
+38025-000,Rua do Carmo,,,Nossa Senhora da Abadia,Uberaba,MG,Minas Gerais,Sudeste,3170107,,34,5401
+01002-000,Rua Direita,lado par,,Sé,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+01311-000,Avenida Paulista,até 609 - lado ímpar,,Bela Vista,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
