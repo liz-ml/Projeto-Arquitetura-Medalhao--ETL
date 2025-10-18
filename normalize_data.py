@@ -43,5 +43,5 @@ class NormalizeData:
             print(f"Arquivo {file} normalizado e salvo como {output_path}") 
             
 if __name__ == "__main__":
-    normalize_data = NormalizeData(input_dir = "01-bronze-raw", output_dir = "02-silver-processed")
+    normalize_data = NormalizeData(input_dir = "01-bronze-raw", output_dir = "02-silver-validated")
     normalize_data.normaliza_data()
